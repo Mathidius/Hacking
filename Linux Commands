@@ -1,0 +1,6 @@
+cat - displays contents of file
+ls - list files and directories
+whoami - displays username
+ssh (username@xxx.xx.xx.xxx.x) provides secure encrypted connection between two hosts over insecure network
+history - displays list of commands used in a terminal session
+su (username) - substitute user - allows current user to execute commands as another user
